@@ -10,7 +10,7 @@ import numpy as np
 from datetime import datetime, timedelta
 from typing import Dict, List, Optional, Tuple
 import scipy.stats as stats
-
+ 
 
 class StreakAnalyzer:
     """
